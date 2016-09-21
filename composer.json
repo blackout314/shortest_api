@@ -1,0 +1,7 @@
+{
+  "name": "blackout314/shortest_api",
+  "description": "An Shortest Api Wrapper",
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
