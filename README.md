@@ -1,5 +1,5 @@
 # shortest_api 
-shorte.st api wrapper
+[shorte.st](http://join-shortest.com/ref/14b96a2d5e) api wrapper | [payout](https://shorte.st/payoutrates)
 
 ```php
 $KEY      = 'YOUR-KEY';
